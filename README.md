@@ -7,6 +7,13 @@ Email Me 👉 ✉️ **ap2725557@gmail.com** For Collaboration/Project or Anythi
 - 📫 **How to reach me:** ap2725557@gmail.com
 - 😄 **Pronouns:**Anil
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anil750958) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/anil-pal-623a3b380) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AnilPal565536)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ap2725557@gmail.com) 
 
