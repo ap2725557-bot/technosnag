@@ -1,4 +1,12 @@
+<h1> 💫 Hi 👋, I'm ANIL KUMAR PAL<h1></h1>
 
+Email Me 👉 ✉️ **ap2725557@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🌱 **I’m currently learning:** mysql,Machine learning,AI
+- 💬 **Ask me about:** i am learner
+- 📫 **How to reach me:** ap2725557@gmail.com
+- 😄 **Pronouns:**Anil
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anil750958) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/anil-pal-623a3b380) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AnilPal565536)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ap2725557@gmail.com) 
 
@@ -8,9 +16,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=ap2725557-bot&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ap2725557-bot&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ap2725557-bot&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ap2725557-bot&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
